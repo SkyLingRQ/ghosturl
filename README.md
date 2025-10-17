@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="images/logo.png">
+</p>
+
 # GhostURL
-GhostURL es un programa de recopilación de URLs y subdominios históricos que Wayback Machine recopiló. Usa la API de CDX de Wayback Machine y ofrece escaneos por dominio único o fichero de dominios/subdominios. La facilitación de la obtención de URLs hacia un objetivo la hace una herramienta esencial, útil e indispensable en tareas de Read Team, Pentesting y Bug Bounty.
+GhostURL is a program for collecting historical URLs and subdomains collected by the Wayback Machine. It uses the Wayback Machine CDX API and offers scans for single domains or archives of domains/subdomains. The ease of obtaining URLs for a target makes it an essential, useful, and indispensable tool for Read Team, Pentesting, and Bug Bounty tasks.
 ## Install
 ```bash
 go install github.com/SkyLingRQ/ghosturl@latest
